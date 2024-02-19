@@ -7,7 +7,12 @@
 4. commit
 5. push (this step can't be easy, need to check what happens if no credentials...)
 
-
+## branch
+0. create branch
+1. merge main into branch
+2. commit & push into branch
+3. merge branc into main
+4. commit & push into main
 
 
 
